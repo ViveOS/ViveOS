@@ -1,2 +1,2 @@
 # ViveOS
-The ViveOS Kernel
+This repository is the kernel behind ViveOS.
